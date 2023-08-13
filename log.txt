@@ -1,0 +1,23 @@
+commit 34f1a84e3312dc87de05980dd2e33ffc92fc0cd1
+Author: raphi931 <raphi931@gmail.com>
+Date:   Thu Aug 10 15:18:07 2023 +0300
+
+    create cat file
+
+commit aff07e573dffbed538fce8013a209c4eaf5bec9d
+Author: raphi931 <raphi931@gmail.com>
+Date:   Thu Aug 10 15:11:54 2023 +0300
+
+    create new dog file
+
+commit 700e7862197e165c034135941257219c19899d2a
+Author: raphi931 <raphi931@gmail.com>
+Date:   Thu Aug 10 15:10:22 2023 +0300
+
+    Deleted the file from the git repository
+
+commit f9d6f2e72dd9dda39f5f4a94717669f89c1cc792
+Author: raphi931 <raphi931@gmail.com>
+Date:   Thu Aug 10 10:32:19 2023 +0300
+
+    add two files to repo and write hello world
